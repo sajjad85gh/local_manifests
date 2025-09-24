@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+    <remote name="daria-community" fetch="https://github.com/daria-community" />
     <project path="device/daria/zahedan" name="daria-community/device_daria_zahedan" revision="itisFarzin/testing/lineage-23.0" />
     <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="upstream/sixteen-qpr0" />
     <project path="kernel/daria/mt6877" name="daria-community/kernel_volla_mt6877" revision="itisFarzin/testing/lineage-23.0" />
