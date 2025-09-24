@@ -5,7 +5,7 @@
     <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="upstream/sixteen-qpr0" />
     <project path="kernel/daria/mt6877" name="daria-community/kernel_volla_mt6877" revision="itisFarzin/testing/lineage-23.0" />
 
-    <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-23." />
+    <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-23.0" />
     <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
 
 </manifest>
