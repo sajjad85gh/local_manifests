@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="daria-community" fetch="https://github.com/daria-community" />
-    <project path="device/daria/zahedan" name="daria-community/device_daria_zahedan" revision="itisFarzin/testing/lineage-23.0" />
-    <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="upstream/sixteen-qpr0" />
-    <project path="kernel/daria/mt6877" name="daria-community/kernel_volla_mt6877" revision="itisFarzin/testing/lineage-23.0" />
-
+    <remote name="Nothing-2A" fetch="https://github.com/Nothing-2A" />
+    <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
+    
+    <project path="device/nothing/Aerodactyl" name="Nothing-2A/android_device_nothing_Aerodactyl" revision="lineage-23.0" />
+    <project path="vendor/nothing/Pacman" name="sajjad85gh/proprietary_vendor_nothing_Pacman" revision="lineage-23.0" />
+    <project path="kernel/nothing/mt6886" name="Nothing-2A/android_device_nothing_Aerodactyl-kernel" revision="lineage-23.0" />
+    <project path="hardware/nothing" name="Nothing-2A/android_hardware_nothing" revision="lineage-23.0" />
+    
     <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-23.0" />
     <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
 
