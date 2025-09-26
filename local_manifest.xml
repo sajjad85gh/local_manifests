@@ -28,6 +28,12 @@
         revision="lineage-23.0" />
 
     <project
+        path="device/nothing/Aerodactyl-kernel"
+        name="android_device_nothing_Aerodactyl-kernel"
+        remote="github-nothing"
+        revision="lineage-23.0" />
+
+    <project
         path="hardware/nothing"
         name="android_hardware_nothing"
         remote="github-nothing"
