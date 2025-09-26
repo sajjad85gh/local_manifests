@@ -1,48 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github-nothing" fetch="https://github.com/Nothing-2A" />
-    <remote name="gitlab-nothing" fetch="https://gitlab.com/nothing-2a" />
+    <remote name="daria-community" fetch="https://github.com/daria-community" />
+    <project path="device/daria/zahedan" name="daria-community/device_daria_zahedan" revision="itisFarzin/testing/lineage-23.0" />
+    <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="upstream/sixteen-qpr0" />
+    <project path="kernel/daria/mt6877" name="daria-community/kernel_volla_mt6877" revision="itisFarzin/testing/lineage-23.0" />
 
-    <project
-        path="device/nothing/Aerodactyl"
-        name="android_device_nothing_Aerodactyl"
-        remote="github-nothing"
-        revision="lineage-23.0" />
-
-    <project
-        path="vendor/nothing/Pacman"
-        name="proprietary_vendor_nothing_Pacman"
-        remote="gitlab-nothing"
-        revision="lineage-23.0" />
-    
-    <project
-        path="vendor/nothing/Aerodactyl"
-        name="proprietary_vendor_nothing_Aerodactyl"
-        remote="gitlab-nothing"
-        revision="lineage-23.0" />
-
-    <project
-        path="kernel/nothing/mt6886"
-        name="android_kernel_nothing_mt6886"
-        remote="github-nothing"
-        revision="lineage-23.0" />
-
-    <project
-        path="hardware/nothing"
-        name="android_hardware_nothing"
-        remote="github-nothing"
-        revision="lineage-23.0" />
-
-    <project
-        path="device/mediatek/sepolicy_vndr"
-        name="LineageOS/android_device_mediatek_sepolicy_vndr"
-        remote="github-nothing"
-        revision="lineage-23.0" />
-
-    <project
-        path="hardware/mediatek"
-        name="LineageOS/android_hardware_mediatek"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
-</manifest>
+    <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-23.0" />
+    <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
