@@ -34,6 +34,12 @@
         revision="lineage-23.0" />
 
     <project
+        path="kernel/nothing/modules_mt6886"
+        name="android_kernel_modules_nothing_mt6886"
+        remote="github-nothing"
+        revision="lineage-23.0" />
+
+    <project
         path="hardware/nothing"
         name="android_hardware_nothing"
         remote="github-nothing"
