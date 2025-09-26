@@ -55,6 +55,6 @@
         path="hardware/mediatek"
         name="android_hardware_mediatek"
         remote="github-nothing"
-        revision="lineage-22.2" />
+        revision="lineage-23.0" />
 
 </manifest>
