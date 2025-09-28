@@ -2,6 +2,7 @@
 <manifest>
     <remote name="github-nothing" fetch="https://github.com/Nothing-2A" />
     <remote name="gitlab-nothing" fetch="https://gitlab.com/nothing-2a" />
+    <remote name="github-cordbase" fetch="https://github.com/cordbase" />
 
     <project
         path="device/nothing/Aerodactyl"
@@ -55,6 +56,18 @@
         path="hardware/mediatek"
         name="android_hardware_mediatek"
         remote="github-nothing"
+        revision="lineage-23.0" />
+    
+    <project
+        path="device/nothing/Aerodactyl-ntcamera"
+        name="android_device_nothing_Aerodactyl-ntcamera"
+        remote="github-nothing"
+        revision="lineage-22.2" />
+    
+    <project
+        path="vendor/nothing/Aerodactyl-ntcamera"
+        name="proprietary_vendor_nothing_Aerodactyl-ntcamera"
+        remote="github-cordbase"
         revision="lineage-23.0" />
 
 </manifest>
