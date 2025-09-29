@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="daria-community" fetch="https://github.com/daria-community" />
-    <remote name="git-libremobileos" fetch="https://git.libremobileos.com" />
+    <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
     
     <project path="device/daria/zahedan" name="daria-community/device_daria_zahedan-unified" revision="Itis_Sajjad/testing/crDroid-15-qpr2" />
-    <project path="vendor/daria/zahedan" name="git-libremobileos/inja-turtles/proprietary_vendor_daria_zahedan" revision="fifteen-qpr2" />
-    <project path="kernel/daria/mt6877" name="git-libremobileos/LMODroid-Devices/kernel_daria_mt6877" revision="fifteen-qpr2" />
+    <project path="vendor/daria/zahedan" name="sajjad85gh/proprietary_vendor_daria_zahedan" revision="fifteen-qpr2" />
+    <project path="kernel/daria/mt6877" name="sajjad85gh/kernel_daria_mt6877" revision="fifteen-qpr2" />
 
     <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-22.2" />
     <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
