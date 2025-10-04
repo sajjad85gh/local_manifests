@@ -12,4 +12,5 @@
     <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
 
     <project path="packages/apps/LMODynamicWallpaper" name="LMODroid/platform_packages_apps_LMODynamicWallpaper" revision="fifteen-qpr2" />
+    <project path="packages/apps/MatrixxSettings" name="sajjad85gh/android_packages_apps_MatrixxSettings" revision="15.0" />
 </manifest>
