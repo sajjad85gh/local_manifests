@@ -6,7 +6,7 @@
     
     <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/testing/Matrixx-15-qpr2" />
     <project path="vendor/daria/zahedan" name="sajjad85gh/proprietary_vendor_daria_zahedan" revision="fifteen-qpr2" />
-    <project path="kernel/daria/mt6877" name="daria-community/kernel_daria_mt6877" revision="itisFarzin/testing/lineage-23.0" />
+    <project path="kernel/daria/mt6877" name="daria-community/kernel_volla_mt6877" revision="itisFarzin/testing/lineage-23.0" />
 
     <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-22.2" />
     <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
