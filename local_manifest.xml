@@ -18,8 +18,8 @@
         revision="Matrixx-15-qpr2" />
 
     <project
-        path="vendor/nothing/Pacman"
-        name="proprietary_vendor_nothing_Pacman"
+        path="vendor/nothing/PacmanPro"
+        name="proprietary_vendor_nothing_PacmanPro"
         remote="gitlab-nothing"
         revision="lineage-22.2" />
     
