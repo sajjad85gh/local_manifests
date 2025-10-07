@@ -4,6 +4,7 @@
     <remote name="gitlab-nothing" fetch="https://gitlab.com/nothing-2a" />
     <remote name="LMODroid" fetch="https://github.com/LMODroid" />
     <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
+    <remote name="cordbase" fetch="https://github.com/cordbase" />
 
     <project
         path="packages/apps/LMODynamicWallpaper"
@@ -32,8 +33,8 @@
     <project
         path="kernel/nothing/mt6886"
         name="android_kernel_nothing_mt6886"
-        remote="github-nothing"
-        revision="lineage-22.2" />
+        remote="cordbase"
+        revision="testing" />
 
     <project
         path="device/nothing/Aerodactyl-kernel"
