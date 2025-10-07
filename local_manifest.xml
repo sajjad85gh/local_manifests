@@ -1,68 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github-nothing" fetch="https://github.com/Nothing-2A" />
-    <remote name="gitlab-nothing" fetch="https://gitlab.com/nothing-2a" />
-    <remote name="LMODroid" fetch="https://github.com/LMODroid" />
+    <remote name="daria-community" fetch="https://github.com/daria-community" />
     <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
-
-    <project
-        path="packages/apps/LMODynamicWallpaper"
-        name="platform_packages_apps_LMODynamicWallpaper"
-        remote="LMODroid"
-        revision="fifteen-qpr2" />
+    <remote name="LMODroid" fetch="https://github.com/LMODroid" />
     
-    <project
-        path="device/nothing/Aerodactyl"
-        name="android_device_nothing_Aerodactyl"
-        remote="sajjad85gh"
-        revision="Matrixx-15-qpr2" />
+    <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/testing/Matrixx-15-qpr2" />
+    <project path="vendor/daria/zahedan" name="sajjad85gh/proprietary_vendor_daria_zahedan" revision="fifteen-qpr2" />
+    <project path="kernel/daria/mt6877" name="daria-community/kernel_volla_mt6877" revision="itis_Sajjad/testing/lineage-23.0" />
 
-    <project
-        path="vendor/nothing/PacmanPro"
-        name="proprietary_vendor_nothing_PacmanPro"
-        remote="gitlab-nothing"
-        revision="lineage-22.2" />
-    
-    <project
-        path="vendor/nothing/Aerodactyl"
-        name="proprietary_vendor_nothing_Aerodactyl"
-        remote="gitlab-nothing"
-        revision="lineage-22.2" />
+    <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-22.2" />
+    <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
 
-    <project
-        path="kernel/nothing/mt6886"
-        name="android_kernel_nothing_mt6886"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
-    <project
-        path="device/nothing/Aerodactyl-kernel"
-        name="android_device_nothing_Aerodactyl-kernel"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
-    <project
-        path="kernel/nothing/modules_mt6886"
-        name="android_kernel_modules_nothing_mt6886"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
-    <project
-        path="hardware/nothing"
-        name="android_hardware_nothing"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
-    <project
-        path="device/mediatek/sepolicy_vndr"
-        name="android_device_mediatek_sepolicy_vndr"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
-    <project
-        path="hardware/mediatek"
-        name="android_hardware_mediatek"
-        remote="github-nothing"
-        revision="lineage-22.2" />
-
+    <project path="packages/apps/LMODynamicWallpaper" name="LMODroid/platform_packages_apps_LMODynamicWallpaper" revision="fifteen-qpr2" />
 </manifest>
