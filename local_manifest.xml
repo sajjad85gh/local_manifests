@@ -2,7 +2,7 @@
 <manifest>
     <remote name="daria-community" fetch="https://github.com/daria-community" />
 
-    <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/temp/lineage-22.2" />
+    <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/testing/lineage-23.0-6.6" />
     <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="itisFarzin/testing/lineage-23.0-6.6" />
 
 
