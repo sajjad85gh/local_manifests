@@ -3,7 +3,7 @@
     <remote name="daria-community" fetch="https://github.com/daria-community" />
     <remote name="DariaRnD" fetch="https://github.com/DariaRnD" />
 
-    <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/testing/lineage-22.2" />
+    <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/testing/lineage-22.2-4.19.191" />
     <project path="vendor/daria/zahedan" name="daria-community/proprietary_vendor_daria_zahedan" revision="fifteen-qpr2" />
     <project path="kernel/daria/mt6877" name="DariaRnD/kernel_daria_mt6877" revision="zahedan-u-oss" />
 
