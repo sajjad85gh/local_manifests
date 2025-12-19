@@ -4,7 +4,7 @@
     <remote name="cordbase" fetch="https://github.com/cordbase" />
 
     <project path="device/daria/zahedan-unified" name="daria-community/device_daria_zahedan" revision="Itis_Sajjad/testing/Matrixx-15-qpr2" />
-    <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="upstream/lineage-22.2" />
+    <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan-unused" revision="fifteen-qpr2" />
     <project path="kernel/daria/zahedan" name="cordbase/kernel_volla_mt6877" revision="itisFarzin/testing/lineage-23.0" />
 
     
