@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
+<manifest> 
     <remote name="github-nothing" fetch="https://github.com/Nothing-2A" />
     <remote name="gitlab-nothing" fetch="https://gitlab.com/nothing-2a" />
-
+    <remote name="Pong-Development" fetch="https://github.com/Pong-Development" />
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" />
+    <remote name="NullDebris" fetch="https://github.com/NullDebris" />
+    
     
     <project
         path="device/nothing/Aerodactyl"
         name="android_device_nothing_Aerodactyl"
-        remote="github-nothin"
+        remote="github-nothing"
         revision="lineage-24.0" />
 
     <project
@@ -49,7 +52,7 @@
     <project
         path="device/mediatek/sepolicy_vndr"
         name="android_device_mediatek_sepolicy_vndr"
-        remote="github-nothing"
+        remote="LineageOS"
         revision="lineage-24.0" />
 
     <project
@@ -61,13 +64,13 @@
     <project
         path="android/packages/apps/ParanoidGlyph"
         name="android_packages_apps_ParanoidGlyph"
-        remote="github-nothing"
+        remote="NullDebris"
         revision="lineage-24.0" />
     
     <project
         path="android/packages/apps/GlyphAdapter"
         name="android_packages_apps_GlyphAdapter"
-        remote="github-nothing"
+        remote="Pong-Development"
         revision="lineage-24.0" />
     
 </manifest>
