@@ -46,7 +46,7 @@
     <project
         path="hardware/nothing"
         name="android_hardware_nothing"
-        remote="LineageOS"
+        remote="github-nothing"
         revision="lineage-24.0" />
 
     <project
@@ -58,7 +58,7 @@
     <project
         path="hardware/mediatek"
         name="android_hardware_mediatek"
-        remote="github-nothing"
+        remote="LineageOS"
         revision="lineage-24.0" />
     
     <project
