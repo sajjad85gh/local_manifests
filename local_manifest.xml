@@ -71,6 +71,6 @@
         path="packages/apps/GlyphAdapter"
         name="packages_apps_GlyphAdapter"
         remote="Pong-Development"
-        revision="lineage-24.0" />
+        revision="16" />
     
 </manifest>
