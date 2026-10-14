@@ -46,7 +46,7 @@
     <project
         path="hardware/nothing"
         name="android_hardware_nothing"
-        remote="github-nothing"
+        remote="LineageOS"
         revision="lineage-24.0" />
 
     <project
@@ -62,14 +62,14 @@
         revision="lineage-24.0" />
     
     <project
-        path="android/packages/apps/ParanoidGlyph"
-        name="android_packages_apps_ParanoidGlyph"
+        path="packages/apps/ParanoidGlyph"
+        name="packages_apps_ParanoidGlyph"
         remote="NullDebris"
         revision="lineage-24.0" />
     
     <project
-        path="android/packages/apps/GlyphAdapter"
-        name="android_packages_apps_GlyphAdapter"
+        path="packages/apps/GlyphAdapter"
+        name="packages_apps_GlyphAdapter"
         remote="Pong-Development"
         revision="lineage-24.0" />
     
