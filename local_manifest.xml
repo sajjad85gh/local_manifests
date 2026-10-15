@@ -5,7 +5,7 @@
     <remote name="Pong-Development" fetch="https://github.com/Pong-Development" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
     <remote name="NullDebris" fetch="https://github.com/NullDebris" />
-    
+    <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
     
     <project
         path="device/nothing/Aerodactyl"
@@ -46,7 +46,7 @@
     <project
         path="hardware/nothing"
         name="android_hardware_nothing"
-        remote="github-nothing"
+        remote="sajjad85gh"
         revision="lineage-24.0" />
 
     <project
