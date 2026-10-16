@@ -10,7 +10,7 @@
     <project
         path="device/nothing/Aerodactyl"
         name="android_device_nothing_Aerodactyl"
-        remote="github-nothing"
+        remote="sajjad85gh"
         revision="lineage-24.0" />
 
     <project
