@@ -1,76 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest> 
-    <remote name="github-nothing" fetch="https://github.com/Nothing-2A" />
-    <remote name="gitlab-nothing" fetch="https://gitlab.com/nothing-2a" />
-    <remote name="Pong-Development" fetch="https://github.com/Pong-Development" />
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" />
-    <remote name="NullDebris" fetch="https://github.com/NullDebris" />
-    <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
+?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="daria-community" fetch="https://github.com/daria-community" />
+    <remote name="sajjad85gh fetch="https://github.com/sajjad85gh" />
     
-    <project
-        path="device/nothing/Aerodactyl"
-        name="android_device_nothing_Aerodactyl"
-        remote="sajjad85gh"
-        revision="lineage-24.0" />
-
-    <project
-        path="vendor/nothing/Pacman"
-        name="proprietary_vendor_nothing_Pacman"
-        remote="gitlab-nothing"
-        revision="lineage-24.0" />
+    <project path="device/daria/zahedan" name="sajjad85gh/device_daria_zahedan" revision="Itis_Sajjad/testing/lineage-22.2-6.6" />
+    <project path="vendor/daria/zahedan" name="daria-community/vendor_daria_zahedan" revision="itisFarzin/testing/lineage-23.0-6.6" />
     
-    <project
-        path="vendor/nothing/Aerodactyl"
-        name="proprietary_vendor_nothing_Aerodactyl"
-        remote="gitlab-nothing"
-        revision="lineage-24.0" />
-
-    <project
-        path="kernel/nothing/mt6886"
-        name="android_kernel_nothing_mt6886"
-        remote="github-nothing"
-        revision="lineage-24.0" />
-
-    <project
-        path="device/nothing/Aerodactyl-kernel"
-        name="android_device_nothing_Aerodactyl-kernel"
-        remote="github-nothing"
-        revision="lineage-24.0" />
-
-    <project
-        path="kernel/nothing/modules_mt6886"
-        name="android_kernel_modules_nothing_mt6886"
-        remote="github-nothing"
-        revision="lineage-24.0" />
-
-    <project
-        path="hardware/nothing"
-        name="android_hardware_nothing"
-        remote="sajjad85gh"
-        revision="lineage-24.0" />
-
-    <project
-        path="device/mediatek/sepolicy_vndr"
-        name="android_device_mediatek_sepolicy_vndr"
-        remote="LineageOS"
-        revision="lineage-24.0" />
-
-    <project
-        path="hardware/mediatek"
-        name="android_hardware_mediatek"
-        remote="LineageOS"
-        revision="lineage-24.0" />
-    
-    <project
-        path="packages/apps/ParanoidGlyph"
-        name="packages_apps_ParanoidGlyph"
-        remote="NullDebris"
-        revision="lineage-24.0" />
-    
-    <project
-        path="packages/apps/GlyphAdapter"
-        name="packages_apps_GlyphAdapter"
-        remote="Pong-Development"
-        revision="16" />
-    
-</manifest>
+    <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-22.2" />
+    <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" revision="lineage-22.2" />
